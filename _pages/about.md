@@ -24,4 +24,4 @@ Currently, I'm working on causal inference and machine learning research to pred
 
 On campus, I served as the Co-Chair @ [Harvard WECode](https://www.harvardwecode.com/), the largest student-run conference for women in tech in the world. I've also been a Case Team Lead @ [Harvard College Consulting Group](https://www.harvardconsulting.org/). Most recently, I also joined the [Peer Concentration Advising](https://www.harvardconsulting.org/) team for the CS Department!
 
-I love exploring new places, playing spikeball on the beach, falling down the rabbit hole of a good [book](https://www.goodreads.com/user/show/24304067-hannah-zhou), thrifting, watching random YouTube videos, and having meaningful conversations with friends and family. 
+I love exploring new places, playing spikeball on the beach, falling down the rabbit hole of a good [book](https://www.goodreads.com/user/show/24304067-hannah-zhou), thrifting, watching random YouTube videos, and having meaningful conversations with friends and family!
